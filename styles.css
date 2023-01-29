@@ -4,31 +4,3 @@ html, body {
 body{margin:0px;
     background: grey;
     }
-.kepka{
-  width:100%;
-  height:70px;
-  background: yellow;
-}
-.leftPanel{
-  width:70px;
-  height: 700px;
-  background:red;
-  float:left;
- /* position:flex;*/
-  
-}
-.rightPanel{
-  width:70px;
-  height: 700px;
-  background:red;
-  float:right;
-  position:flex;
-}
-.pict1{
-position:absolute;
-border:solid blue 2px;
-width:494px;
-height:300px;
-margin-left:70px;
-}
-
