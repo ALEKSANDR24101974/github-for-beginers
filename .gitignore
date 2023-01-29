@@ -4,3 +4,33 @@
 # Ada Library Information
 *.ali
 .
+# Создано https://www.toptal.com/developers/gitignore/api/linux
+# Редактировать на https://www.toptal.com/developers/gitignore?templates=linux
+
+### Линукс ###
+*~
+
+# временные файлы, которые могут быть созданы, если процесс все еще имеет открытый дескриптор удаленного файла
+.fuse_hidden*
+
+# Настройки каталога KDE
+.директория
+
+# Папка для мусора Linux, которая может появиться на любом разделе или диске
+.Мусор-*
+
+# Файлы .nfs создаются, когда открытый файл удаляется, но к нему все еще обращаются
+.нфс*
+
+# Конец https://www.toptal.com/developers/gitignore/api/linux
+# Создано https://www.toptal.com/developers/gitignore/api/replit
+# Редактировать на https://www.toptal.com/developers/gitignore?templates=replit
+
+### повтор ###
+# Повторить файл конфигурации
+.replit
+
+# Повторить файл конфигурации Nix
+replit.nix
+
+# Конец https://www.toptal.com/developers/gitignore/api/replit
