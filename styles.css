@@ -12,8 +12,9 @@ body{margin:0px;
 .leftminBlock{
     width:20%;
     height:100px;
-    background-color:#FFA500;
+   background-color:#FFA500;
     float:left;
+    overflow: hidden
 }
 .rightbigBlock{
     width:80%;
@@ -38,5 +39,5 @@ body{margin:0px;
     display: inline;
     margin-left: auto;
     margin-right: auto;
-    width:50%;
+    overflow: hidden;
 }
