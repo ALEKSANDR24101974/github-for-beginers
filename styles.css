@@ -11,13 +11,13 @@ body{margin:0px;
 }
 .leftminBlock{
     width:20%;
-    height:50px;
+    height:100px;
     background-color:#FFA500;
     float:left;
 }
 .rightbigBlock{
     width:80%;
-    height:50px;
+    height:100px;
     background-color:black;
     float:right; 
 }
@@ -25,4 +25,18 @@ body{margin:0px;
     text-align:left;
     padding-left:20px;
     color:white;
+}
+/*.icon_1{
+    display:flex;
+    justify-content: center; /*центрируем элемент по горизонтали */
+  /*  align-items: center;  и вертикали */
+  /*  width: 200px;  задали размеры блоку-родителю */
+   /* height: 200px;*/
+  /*  overflow: hidden;
+} */
+.icon_1{
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
 }
