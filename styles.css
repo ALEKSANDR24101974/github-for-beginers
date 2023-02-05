@@ -5,20 +5,20 @@ body{margin:0px;
    /* background: grey;*/
     }
 .headerBlock{
-    height:50px;
+    height:100px;
     width:100%;
     border-bottom: 0px solid black;
 }
 .leftminBlock{
     width:20%;
-    height:100px;
+    height:50px;
    background-color:#FFA500;
     float:left;
     overflow: hidden
 }
 .rightbigBlock{
     width:80%;
-    height:100px;
+    height:50px;
     background-color:black;
     float:right; 
 }
@@ -27,17 +27,22 @@ body{margin:0px;
     padding-left:20px;
     color:white;
 }
-/*.icon_1{
+.icon_1{
     display:flex;
     justify-content: center; /*центрируем элемент по горизонтали */
-  /*  align-items: center;  и вертикали */
-  /*  width: 200px;  задали размеры блоку-родителю */
-   /* height: 200px;*/
-  /*  overflow: hidden;
-} */
+  align-items: center;
+  
+} 
 .icon_1{
-    display: inline;
+    display: block;
     margin-left: auto;
     margin-right: auto;
     overflow: hidden;
+}*/
+.imgg{
+    border: 10px solid red;
+    width: 705px;
+    height: 705px;
+    margin-top:0;
+    position:normal;
 }
