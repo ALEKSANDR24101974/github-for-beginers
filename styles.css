@@ -6,7 +6,7 @@ body{
    background: #f0ebd0;
     }
 .headerBlock{
-    height:100px;
+    height:70px;
     width:100%;
     border-bottom: 0px solid black;
 }
@@ -48,4 +48,14 @@ body{
 }
 #video,#extra,#music,#foto{
     color:#bf6818;
+}
+h1{
+    text-align: center;
+}
+.containerMain{
+    border: 1px solid black;
+    width: 95%;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
 }
