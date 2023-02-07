@@ -59,3 +59,9 @@ h1{
     margin-left: auto;
     margin-right: auto;
 }
+.extraLessonVideo
+{
+   display:block;
+   margin-left:auto; 
+   margin-right: auto;
+}
